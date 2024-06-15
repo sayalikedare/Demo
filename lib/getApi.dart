@@ -151,7 +151,7 @@ class _GetApiWithListviewState extends State<GetApiWithListview> {
                                     ),
                                   ),
                                   SizedBox(
-                                    height: 10,
+                                    height: 12,
                                   ),
                                   Row(
                                     children: [
