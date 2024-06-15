@@ -13,7 +13,8 @@ class GetApiWithListview extends StatefulWidget {
 
 class _GetApiWithListviewState extends State<GetApiWithListview> {
   List<dynamic> jsonList = [];
-  // final CarouselController _carouselController = CarouselController();  // Carousel controller
+  final CarouselController _carouselController =
+      CarouselController(); // Carousel controller
 
   @override
   void initState() {
@@ -150,7 +151,7 @@ class _GetApiWithListviewState extends State<GetApiWithListview> {
                                     ),
                                   ),
                                   SizedBox(
-                                    height: 20,
+                                    height: 10,
                                   ),
                                   Row(
                                     children: [
