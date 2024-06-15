@@ -153,7 +153,7 @@ class _GetApiWithListviewState extends State<GetApiWithListview> {
                                     ),
                                   ],
                                 ),
-                                SizedBox(height: 20,),
+                                SizedBox(height: 15,),
                                  Row(
                                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
                                    children: [
